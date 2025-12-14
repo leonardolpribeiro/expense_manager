@@ -1,0 +1,3 @@
+rich==13.7.1          # UI no console
+sqlite3               # Já vem com Python
+matplotlib==3.8.2     # Gráficos (Dia 3)
